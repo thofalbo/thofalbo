@@ -12,13 +12,6 @@
 
 - ⚡For over a decade I had a successful sales career, but my true passion lies in development, which I now pursue with great enthusiasm.
   
-
-<br/>  
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=thofalbo&theme=github_dark&show_icons=true&count_private=true&hide_border=true" align="left"  width="40%" />
-  <img src="https://streak-stats.demolab.com?user=thofalbo&theme=github-dark-blue&hide_border=true&mode=weekly" align="right" width="40%"/>
-</div>
 <br/>
 
 
@@ -80,4 +73,9 @@
 </a>  
 </div>  
 
-<br/> 
+<br/>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=thofalbo&theme=github_dark&show_icons=true&count_private=true&hide_border=true" align="left"  width="40%" />
+  <img src="https://streak-stats.demolab.com?user=thofalbo&theme=github-dark-blue&hide_border=true&mode=weekly" align="right" width="40%"/>
+</div>
