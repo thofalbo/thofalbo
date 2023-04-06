@@ -17,8 +17,9 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=thofalbo&theme=github_dark_dimmed&show_icons=true&count_private=true&hide_border=true" align="center" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=thofalbo&theme=github_dark_dimmed" alt="thofalbo" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=thofalbo)](https://git.io/streak-stats)
 </div>
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=thofalbo&theme=github_dark_dimmed" alt="thofalbo" />
 
 <br/>
 
