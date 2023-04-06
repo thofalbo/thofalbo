@@ -10,7 +10,7 @@
 - 👫I would love to collaborate on any open source project. Even if its not a video game🎮, wich I love by the way.  
   
 
-- ⚡ Fun fact: For a decade, I had a very successful sales career.  
+- ⚡For over a decade I had a successful sales career, but my true passion lies in development, which I now pursue with great enthusiasm.
   
 
 <br/>  
