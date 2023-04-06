@@ -76,6 +76,6 @@
 <br/>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=thofalbo&theme=github_dark&show_icons=true&count_private=true&hide_border=true" align="left"  width="40%" />
-  <img src="https://streak-stats.demolab.com?user=thofalbo&theme=github-dark-blue&hide_border=true&mode=weekly" align="right" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thofalbo&theme=github_dark&show_icons=true&count_private=true&hide_border=true" align="left"  width="45%" />
+  <img src="https://streak-stats.demolab.com?user=thofalbo&theme=github-dark-blue&hide_border=true&mode=weekly" align="right" width="45%"/>
 </div>
